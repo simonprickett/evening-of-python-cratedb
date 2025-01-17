@@ -1,13 +1,14 @@
 # An Evening of Python Coding: CrateDB
 
-This repository contains accompanying resources for my talk about CrateDB at the Austin and DC Python groups "An Evening of Python Coding" event on January 22nd 2025.  I will add a link to the video of the presentation after the event.  In the meantime, you can sign up to attend online here:
+This repository contains accompanying resources for my talk about CrateDB at the Austin, DC and Northern Virginia Python groups "An Evening of Python Coding" event on January 22nd 2025.  I will add a link to the video of the presentation after the event.  In the meantime, you can sign up to attend online here:
 
 * [Austin Python on Meetup](https://www.meetup.com/austinpython/events/303611127/).
 * [DC Python on Meetup](https://www.meetup.com/dcpython/events/303611110/).
+* [NoVA Python on Meetup](https://www.meetup.com/nova-python/events/305610636/). 
 
 ## Slides
 
-TODO
+The slides are included [here](./evening_of_python_cratedb_slides.pdf) in PDF format.
 
 ## Get a Free CrateDB Cluster in the Cloud
 
