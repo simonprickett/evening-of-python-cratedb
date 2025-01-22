@@ -1,6 +1,6 @@
 # An Evening of Python Coding: CrateDB
 
-This repository contains accompanying resources for my talk about CrateDB at the Austin, DC and Northern Virginia Python groups "An Evening of Python Coding" event on January 22nd 2025.  You can [watch the video of my presentation on YouTube](https://www.youtube.com/watch?v=LWvEUoHUkE4).
+This repository contains accompanying resources for my talk about CrateDB at the [Austin](https://www.meetup.com/austinpython/), [DC](https://dcpython.org/) and [Northern Virginia](https://www.meetup.com/nova-python/) Python groups "An Evening of Python Coding" event on January 22nd 2025.  You can [watch the video of my presentation on YouTube](https://www.youtube.com/watch?v=LWvEUoHUkE4).
 
 ## Slides
 
